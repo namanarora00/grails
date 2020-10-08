@@ -1,7 +1,7 @@
 .preach{
     display: flex;
-    margin-top: 3%;
-    margin-bottom: 3%;
+    margin-top: 2%;
+    margin-bottom: 5px;
     justify-content: center;
     font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
@@ -10,10 +10,9 @@
 .holy-div{
     display: flex;
     justify-content: center;
-    margin-top: 3%;
+    margin-top: 5px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 5%;
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
 }

@@ -20,8 +20,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path='/' render={mainPage} />
-        <Route path='/ranks' render={rankPage} />
+        <Route exact path='/' component={mainPage} />
+        <Route path='/ranks' component={rankPage} />
       </Switch>
     </Router>
   );
